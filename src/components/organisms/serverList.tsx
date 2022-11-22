@@ -1,4 +1,4 @@
-import { Flex, VStack, Text, Wrap, WrapItem, Avatar } from '@chakra-ui/react'
+import { Wrap, WrapItem, Avatar } from '@chakra-ui/react'
 
 const ServerList = () => {
   return (

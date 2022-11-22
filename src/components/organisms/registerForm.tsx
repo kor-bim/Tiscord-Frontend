@@ -1,4 +1,4 @@
-import { Box, Button, FormControl, FormHelperText, FormLabel, HStack, Input, Select, VStack } from '@chakra-ui/react'
+import { Box, Button, FormControl, FormHelperText, FormLabel, HStack, Input, VStack } from '@chakra-ui/react'
 import Logo from '@/components/atoms/logo'
 import ScaleFadeCard from '@/components/atoms/scaleFadeCard'
 import CustomSelectBox from '@/components/atoms/customSelectBox'
